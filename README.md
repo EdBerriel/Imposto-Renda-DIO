@@ -71,4 +71,4 @@ A planilha apresenta três tópicos controlados dinâmicamente pelo menu criado 
 - Validação de Dados por listas;
   
 ## 📂 — 6. Anexo do Arquivo
-[Clique aqui para baixar](https://github.com/EdBerriel/Imposto-Renda-DIO/blob/main/Imposto%20de%20Renda%20DIO.xlsm)
+[Clique aqui para baixar](https://github.com/EdBerriel/Imposto-Renda-DIO/blob/main/Imposto%20de%20Renda%20DIO.xlsx)
